@@ -27,10 +27,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Santhiya-code/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Santhiya-code/leetcode/tree/master/0682-baseball-game) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Santhiya-code/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Array
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Santhiya-code/leetcode/tree/master/0682-baseball-game) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Santhiya-code/leetcode/tree/master/0234-palindrome-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Santhiya-code/leetcode/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Santhiya-code/leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
