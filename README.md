@@ -23,8 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Santhiya-code/leetcode/tree/master/0043-multiply-strings) |
+| [0682-baseball-game](https://github.com/Santhiya-code/leetcode/tree/master/0682-baseball-game) |
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Santhiya-code/leetcode/tree/master/0682-baseball-game) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Santhiya-code/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+## Array
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Santhiya-code/leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
