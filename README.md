@@ -18,8 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Santhiya-code/leetcode/tree/master/0043-multiply-strings) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Santhiya-code/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Santhiya-code/leetcode/tree/master/0043-multiply-strings) |
+## Stack
+|  |
+| ------- |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Santhiya-code/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
