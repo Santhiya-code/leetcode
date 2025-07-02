@@ -14,9 +14,6 @@ class Solution {
                 fou=false;
                 break;
             }
-            if(!fou){
-                break;
-            }
         }
         return str;
     }
