@@ -13,7 +13,7 @@ class Solution {
             else if(ch1=='A' || ch1=='a' || ch1=='E' || ch1=='e' || ch1=='I' || ch1=='i' || ch1=='O' || ch1=='o' ||ch1=='U' || ch1=='u'){
                 vow=true;
             }
-            else if(!(Character.isLetter(ch1) || Character.isDigit(ch1))){
+            else if(!Character.isLetter(ch1) &&  !Character.isDigit(ch1)){
                 return false;
             }
             else{
