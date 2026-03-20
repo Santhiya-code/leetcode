@@ -11,8 +11,8 @@ class Solution {
                  next.add(nums[j]);
             }
             res[i]=prev.size()-next.size();
-            prev.clear();
-            next.clear();
+            // prev.clear();
+            // next.clear();
         }
     return res;
     }
